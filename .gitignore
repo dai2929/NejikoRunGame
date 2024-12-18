@@ -103,5 +103,6 @@ Import/
 TextMesh Pro/
 TextMesh Pro.meta
 .vs/SideGame/FileContentIndex/
-
-#NejikoBaseAssets/
+UniversalRenderPipelineGlobalSettings.asset
+UniversalRenderPipelineGlobalSettings.asset.meta
+NejikoBaseAssets/
